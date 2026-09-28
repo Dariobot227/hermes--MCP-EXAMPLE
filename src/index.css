@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --color-queued: #6b7280;
+  --color-running: #3b82f6;
+  --color-completed: #10b981;
+  --color-failed: #ef4444;
+  --color-blocked: #f59e0b;
+}
